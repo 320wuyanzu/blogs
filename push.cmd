@@ -11,5 +11,5 @@ git push -f git@github.com:320wuyanzu/blogs.git master:gh-pages
 :: 再push源文档
 cd ../../../
 git add *
-git commit -m"新增计算机网络考研(803)复习笔记"
+git commit -m"很杂"
 git push -f git@github.com:320wuyanzu/blogs.git master:master
