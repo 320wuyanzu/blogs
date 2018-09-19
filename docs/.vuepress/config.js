@@ -6,6 +6,8 @@ module.exports = {
         lastUpdated: '最后一次更新',
         nav: [
             { text: 'Personal Homepage', link: 'https://320wuyanzu.github.io' },
+            { text: '考研复习笔记', link: '/notes.md'},
+            { text: '飞机相关', link: '/ac.md'}
         ],
         sidebarDepth:2,
         sidebar: sidebar_group()
